@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Bots not included in this push
+perudo/bots/110iq.py
+perudo/bots/120iq.py
+perudo/bots/130iq.py
+perudo/bots/Autist.py
+perudo/bots/Believer.py
