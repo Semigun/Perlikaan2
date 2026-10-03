@@ -1,0 +1,25 @@
+### candidate {"alpha_bid": 15.0} vs default
+3v3+evo    A  15.7%  B  14.6%  (per seat; fair 14.3%)
+2v2+evo    A  20.8%  B  19.2%  (per seat; fair 14.3%)
+1v1+evo    A  29.2%  B  32.9%  (per seat; fair 14.3%)
+overall    A  19.7%  B  19.2%   146s
+### candidate {"alpha_pop": 100.0} vs default
+3v3+evo    A  15.1%  B  15.2%  (per seat; fair 14.3%)
+2v2+evo    A  21.5%  B  18.4%  (per seat; fair 14.3%)
+1v1+evo    A  30.6%  B  32.1%  (per seat; fair 14.3%)
+overall    A  19.8%  B  19.1%   145s
+### candidate {"alpha_pop": 10.0} vs default
+3v3+evo    A  13.8%  B  16.0%  (per seat; fair 14.3%)
+2v2+evo    A  20.5%  B  19.5%  (per seat; fair 14.3%)
+1v1+evo    A  27.1%  B  32.3%  (per seat; fair 14.3%)
+overall    A  18.3%  B  19.9%   146s
+### candidate {"rb_m": 60.0} vs default
+3v3+evo    A  15.3%  B  15.1%  (per seat; fair 14.3%)
+2v2+evo    A  20.2%  B  19.3%  (per seat; fair 14.3%)
+1v1+evo    A  30.0%  B  32.5%  (per seat; fair 14.3%)
+overall    A  19.4%  B  19.4%   147s
+### candidate {"beta_pop": 60.0} vs default
+3v3+evo    A  15.0%  B  15.1%  (per seat; fair 14.3%)
+2v2+evo    A  19.8%  B  20.0%  (per seat; fair 14.3%)
+1v1+evo    A  28.8%  B  33.4%  (per seat; fair 14.3%)
+overall    A  18.9%  B  19.8%   154s

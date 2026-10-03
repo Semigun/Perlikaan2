@@ -1,0 +1,15 @@
+
+== pass 0 param kappa (base {})
+variant           friends  iq100x3   mirror      mix      pop   strong    SCORE   ±2se
+kappa=0.5           56.1%    55.9%    25.5%    48.1%    50.9%    19.6%    2.989  0.068
+kappa=0.8           55.8%    54.9%    25.8%    47.6%    51.8%    20.2%    2.987  0.068
+kappa=1.2           54.8%    54.8%    26.7%    47.2%    47.6%    19.2%    2.921  0.068
+-> kappa=0.5  (289s)
+
+== pass 0 param gamma (base {"kappa": 0.5})
+variant           friends  iq100x3   mirror      mix      pop   strong    SCORE   ±2se
+gamma=1.0           55.2%    55.3%    27.4%    49.3%    50.7%    20.2%    3.012  0.068
+gamma=1.5           56.1%    55.9%    26.2%    49.0%    50.9%    19.6%    3.008  0.068
+gamma=2.0           55.8%    56.7%    28.5%    47.8%    49.7%    20.6%    3.021  0.068
+gamma=3.0           54.9%    54.7%    28.2%    49.7%    52.7%    21.8%    3.056  0.068
+-> gamma=3.0  (394s)

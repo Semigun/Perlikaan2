@@ -1,0 +1,45 @@
+### candidate {"explore_eps": 0.002} vs default
+3v3+evo    A  13.9%  B  17.2%  (per seat; fair 14.3%)
+2v2+evo    A  18.3%  B  22.4%  (per seat; fair 14.3%)
+1v1+evo    A  29.1%  B  32.3%  (per seat; fair 14.3%)
+overall    A  17.9%  B  21.4%   160s
+### candidate {"accept_pow": 0.3} vs default
+3v3+evo    A  12.7%  B  17.8%  (per seat; fair 14.3%)
+2v2+evo    A  18.5%  B  20.9%  (per seat; fair 14.3%)
+1v1+evo    A  29.8%  B  31.2%  (per seat; fair 14.3%)
+overall    A  17.5%  B  21.1%   150s
+### candidate {"gamma": 2.5} vs default
+3v3+evo    A  15.1%  B  14.6%  (per seat; fair 14.3%)
+2v2+evo    A  18.6%  B  20.5%  (per seat; fair 14.3%)
+1v1+evo    A  29.8%  B  32.9%  (per seat; fair 14.3%)
+overall    A  18.7%  B  19.6%   142s
+### candidate {"kappa": 0.5} vs default
+3v3+evo    A  14.8%  B  15.4%  (per seat; fair 14.3%)
+2v2+evo    A  19.7%  B  19.9%  (per seat; fair 14.3%)
+1v1+evo    A  31.2%  B  32.3%  (per seat; fair 14.3%)
+overall    A  19.1%  B  19.7%   145s
+### candidate {"kappa": 1.3} vs default
+3v3+evo    A  14.3%  B  15.4%  (per seat; fair 14.3%)
+2v2+evo    A  20.4%  B  19.8%  (per seat; fair 14.3%)
+1v1+evo    A  29.8%  B  33.5%  (per seat; fair 14.3%)
+overall    A  18.9%  B  19.9%   145s
+### candidate {"w_prior_n": 0} vs default
+3v3+evo    A  14.5%  B  15.1%  (per seat; fair 14.3%)
+2v2+evo    A  20.8%  B  18.7%  (per seat; fair 14.3%)
+1v1+evo    A  31.2%  B  31.7%  (per seat; fair 14.3%)
+overall    A  19.4%  B  19.1%   145s
+### candidate {"beta_call": 1.0} vs default
+3v3+evo    A  15.1%  B  15.0%  (per seat; fair 14.3%)
+2v2+evo    A  19.3%  B  20.0%  (per seat; fair 14.3%)
+1v1+evo    A  29.8%  B  30.7%  (per seat; fair 14.3%)
+overall    A  18.9%  B  19.3%   147s
+### candidate {"alpha_bid": 2.0} vs default
+3v3+evo    A  13.9%  B  16.4%  (per seat; fair 14.3%)
+2v2+evo    A  18.6%  B  20.9%  (per seat; fair 14.3%)
+1v1+evo    A  27.8%  B  34.0%  (per seat; fair 14.3%)
+overall    A  17.8%  B  20.8%   143s
+### candidate {"max_steps": 2} vs default
+3v3+evo    A  14.3%  B  15.7%  (per seat; fair 14.3%)
+2v2+evo    A  20.3%  B  19.0%  (per seat; fair 14.3%)
+1v1+evo    A  29.8%  B  32.7%  (per seat; fair 14.3%)
+overall    A  18.9%  B  19.6%   140s
